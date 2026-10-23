@@ -3,3 +3,7 @@ dotnet run --project 01-Basics/Variables
 dotnet new console -n Variables -o 01-Basics/Variables
 
 dotnet run --project 01-Basics/Variables
+
+https://www.youtube.com/watch?v=0QUgvfuKvWU&t=9707s
+
+1:17

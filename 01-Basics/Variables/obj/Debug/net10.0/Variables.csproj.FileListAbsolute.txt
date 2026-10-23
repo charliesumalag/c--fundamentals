@@ -12,3 +12,4 @@
 /Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/Variables.pdb
 /Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/Variables.genruntimeconfig.cache
 /Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/ref/Variables.dll
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/Variables.sourcelink.json
