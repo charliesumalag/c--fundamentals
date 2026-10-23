@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/If-If-else/Variables.csproj",
+      "projectUniqueName": "/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Condition/Variables.csproj",
       "projectName": "Variables",
-      "projectPath": "/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/If-If-else/Variables.csproj",
+      "projectPath": "/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Condition/Variables.csproj",
       "packagesPath": "/Users/charliesumalag/.nuget/packages/",
-      "outputPath": "/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/If-If-else/obj/",
+      "outputPath": "/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Condition/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/charliesumalag/.nuget/NuGet/NuGet.Config"
