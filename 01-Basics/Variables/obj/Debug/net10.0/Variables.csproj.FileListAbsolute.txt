@@ -1,0 +1,14 @@
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/bin/Debug/net10.0/Variables
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/bin/Debug/net10.0/Variables.deps.json
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/bin/Debug/net10.0/Variables.runtimeconfig.json
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/bin/Debug/net10.0/Variables.dll
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/bin/Debug/net10.0/Variables.pdb
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/Variables.AssemblyInfoInputs.cache
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/Variables.AssemblyInfo.cs
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/Variables.csproj.CoreCompileInputs.cache
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/Variables.dll
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/refint/Variables.dll
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/Variables.pdb
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/Variables.genruntimeconfig.cache
+/Users/charliesumalag/Desktop/csharp-fundamentals/01-Basics/Variables/obj/Debug/net10.0/ref/Variables.dll
